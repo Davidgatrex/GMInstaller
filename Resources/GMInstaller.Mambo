@@ -12,4 +12,4 @@ InstallDir=%[ProgFilesDir]\%[Name]
 
 $reg_uninst
 
-HKEY_LOCAL_MACHINE\SOFTWARE\GenerallyMambo\GMInstaller
+HKEY_LOCAL_MACHINE\SOFTWARE\GenerallyMambo\GMInstaller#GMInstaller

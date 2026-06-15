@@ -1,0 +1,15 @@
+ExecName=GMInstaller.exe
+DiskFile=GMInstaller.exe
+Comp=None
+Ver=1.0.0
+Name=GMInstaller
+LaunchOnInstall=true
+CloseInstallerOnLaunch=true
+CreateStartMenuShortcut=true
+StartMenuShortcutName=Generally Mambo Installer
+StartMenuShortcutDescription=Ejecutable principal de GMInstaller
+InstallDir=%[ProgFilesDir]\%[Name]
+
+$reg_uninst
+
+HKEY_LOCAL_MACHINE\SOFTWARE\GenerallyMambo\GMInstaller
